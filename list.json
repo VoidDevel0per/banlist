@@ -1,5 +1,14 @@
 {
   "version": 0,
-  "updated_at": "wawa",
-  "bans": []
+  "updated_at": "",
+  "bans": [
+    {
+      "id_hash": "",
+      "appeal_id": "",
+      "reason": "",
+      "moderator": "",
+      "expires_at": null,
+      "is_exploiter": true
+    }
+  ]
 }
